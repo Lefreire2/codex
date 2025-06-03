@@ -1,1 +1,3 @@
-# Codex Repo de Teste
+📁 codex/
+├── README.md
+└── main.py
